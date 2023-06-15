@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main-C program that prints exactly Programming is like building a multilingual puzzle
+ *main-Program that prints puts function
  * Return:0(success)
  */
 int main(void)
