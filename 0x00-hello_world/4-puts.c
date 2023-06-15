@@ -1,4 +1,3 @@
-puts.c
 #include <stdio.h>
 /**
  * Description:main-prints out a string to stdout.
