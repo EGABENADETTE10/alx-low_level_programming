@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * Description:main-prints out a string to stdout.
- * Return :0 if success.
+ *main-C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line.
+ * Return:0
  */
 int main(void)
 {
-puts(*\"Programming is like building a multilingual puzzle");
-return(0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
